@@ -32,6 +32,11 @@ This skill initializes any new software project with the three core documentatio
 
 When this skill activates, follow these steps in order. Do NOT skip ahead to coding until the user explicitly approves.
 
+The most important rule is:
+ 
+> DO NOT START CODING UNTIL THE HUMAN HAS REVIEWED AND APPROVED THE
+> `intent.md` AND `spec.md`.
+
 ### Step 1: Interview the User
 
 Before creating any files, interview the user to understand the project. Ask about:
